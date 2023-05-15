@@ -1,0 +1,278 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    overflow-x: hidden;
+    /* position: relative; */
+    background-color: rgb(4, 4, 56);
+    margin: 0 auto;
+    font-family: 'Roboto', sans-serif;
+}
+.navbar-nav{
+    margin-top: 50px;
+    margin-left: -314px;
+
+}
+.container .contain3{
+overflow-x: hidden;
+}
+
+ .banner-top{width: 100%;
+    height: 450px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    position: relative;
+
+} 
+.logo{
+    position: absolute;
+}
+
+.nav-item{
+margin-right: 20px;
+margin-top: -50px;
+}
+
+.online-book{
+    margin-bottom: 30px;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 260px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: aqua;
+    margin-top: 10px;
+    
+
+}
+a:hover{
+    text-decoration: none;
+    color: none;
+}
+
+   
+.contain3{
+width: 980px;
+height: 350px;
+margin-top: -20px;
+margin-left: 100px;
+background: rgb(231,15,15);
+background: linear-gradient(90deg, rgba(231,15,15,1) 41%, rgba(175,93,16,1) 55%);margin-bottom: 20px;
+
+}
+.contain4{
+    margin-top: 5px;
+    width: 980px;
+margin-left: 85px;
+
+}
+.box5{
+width: 323px;
+height: 230px;
+background-color: rgb(214, 210, 204); 
+margin-left: 15px;
+margin-right: 20px;
+position: relative;
+
+}
+.box6{
+    position: relative;
+    width: 323px;
+    height: 230px;
+    background-color: rgb(214, 210, 204); 
+    margin-right: 5px;
+    margin-left: 8px;
+    background-color: rgb(219, 20, 47); 
+
+    }
+
+.box7{
+    position: relative;
+    width: 323px;
+    height: 230px;
+    background-color: rgb(214, 210, 204); 
+    margin-right: 3px;
+    background-color: rgb(230, 81, 12); 
+
+
+}
+.cover1{
+    background-image: url(../images/coverimage1.jfif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    margin-left: 15px;
+    padding-top: 20px;
+}
+.cover2{
+    background-image: url(../images/bookcover2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    margin-left: 15px;
+    padding-top: 20px;
+}
+.cover3{
+    background-image: url(../images/bookcover3.jfif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    margin-left: 15px;
+    padding-top: 20px;
+}
+.order1{
+    padding-top: 40px;
+margin-left: 200px;
+position: absolute;
+color: rgba(68, 59, 59, 0.541);
+}
+.order2{
+    position: absolute;
+    padding-top: 40px;
+    color: rgba(68, 59, 59, 0.541);
+    margin-left: 200px;
+
+}
+.order3{
+    position: absolute;
+    padding-top: 40px;
+    color: rgba(68, 59, 59, 0.541);
+    margin-left: 200px;
+
+}
+.learnmore2{
+    position: absolute;
+    margin-top: 188px;
+    margin-left: 45px;
+    border-radius: 5px;
+    background-color: rgb(206, 95, 95);
+}
+.learnmore1{
+    position: absolute;
+    margin-top: 188px;
+    margin-left: 45px;
+    border-radius: 5px;
+    background-color:  rgb(206, 95, 95);
+}
+.learnmore3{
+    position: absolute;
+    margin-top: 188px;
+    margin-left: 45px;
+    border-radius: 5px;
+    background-color: rgb(206, 95, 95);
+}
+   .contain3 .box1{
+    
+    background-image: url(../images/book1.jfif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 180px;
+    height: 250px;
+    margin-left: 15px;
+   }
+   .contain3 .box2{
+    
+    background-image: url(../images/book2.jfif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 180px;
+    height: 250px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+   }
+
+   .contain3 .box3{
+    
+    background-image: url(../images/book3.jfif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 180px;
+    height: 250px;
+    margin-left: 10px;
+    margin-right: 10px;
+   }
+   .contain3 .box4{
+    
+    background-image: url(../images/book5.jfif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 180px;
+    height: 250px;
+    margin-left: 10px;
+    margin-right: 15px;
+   }
+   
+ 
+   
+.container7{
+
+margin-top: -180px;
+}
+.footer1{
+    margin-top: 200px;
+    margin-bottom: 0px;
+
+    width: 100px;
+    height: 120px;
+    background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0,0,0,1) 59%, rgba(184,147,147,1) 88%);}
+.footer2{
+    margin-top: 200px;
+    margin-bottom: -400px;
+width: 100px;
+height: 120px;
+background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0,0,0,1) 59%, rgba(184,147,147,1) 88%);}
+
+
+.footeremail{
+    position: relative;
+    width: 400px;
+    height: 40px;
+    margin-left: 100px;
+    margin-top: 35px;
+    outline: none;
+    border: none;
+}
+.subscribe{
+    margin-left: 115px;
+    margin-top: 35px;
+    position: relative;
+}
+.sharemail{
+    margin-top: -65px;
+    margin-left: 110px;
+    color: white;
+ } 
+
+ 
+.stats{
+    margin-left: 15px;
+}
+.book{
+    text-decoration: underline;
+    color: rgb(240, 106, 29);
+}
+.recta1{
+    position: relative;
+}
+.check{
+    position: absolute;
+    margin-left: 270px;
+    margin-top: -40px;
+}
